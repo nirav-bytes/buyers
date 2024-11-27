@@ -1,0 +1,13 @@
+{
+    "name": "bytes-nirav/nirav",
+    "description": "\"new buyers\"",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BuyersList\\MyPackage\\": "src/"
+        }
+    }
+}
